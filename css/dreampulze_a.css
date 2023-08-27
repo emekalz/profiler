@@ -1,0 +1,43 @@
+*
+{
+    margin: 0px;
+}
+
+body
+{
+    font-family: sans-serif;
+    background-color: aliceblue;
+    background-position: center;
+    
+}
+
+.media_block
+{
+    background: white;
+    margin-top: 30px;
+    padding: 15px;
+}
+
+.col-2-sm
+{
+    background: rgb(197, 181, 197);
+    color: rgb(68, 2, 68);
+    padding: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.col-2-sm h3
+{
+    font-weight: bold;
+}
+
+section b
+{
+    padding-left: 30px;
+}
+
+.media_block .button
+{
+    margin-top: 35px;
+}
